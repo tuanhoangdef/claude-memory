@@ -1,0 +1,2 @@
+- [Notion linear algebra notes](notion-linear-algebra-notes.md) — Notion page tree + writing style for the 3B1B chapter notes
+- [VinAI repo gaps](vinai-repo-gaps.md) — VinAI/ clone of VinUni-AI20k + 36 EXT- gap labs (done), spec in _solutions/

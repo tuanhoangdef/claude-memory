@@ -1,0 +1,4 @@
+- [Guide, don't execute](guide-dont-execute.md) — course study: only explain/instruct, never run setup/demos or leave files
+- [Project intro format](project-intro-format.md) — always give code-reading path + explain underlying services (Redis, Lua…) when introducing a project
+- [Concepts before code](concepts-before-code.md) — teach terms from zero (analogy + example, no code) first, implementation after; define prerequisites
+- [Code flow from main](code-flow-from-main.md) — "giải thích luồng code" = trace from main() line by line into every call, with snippets + line numbers, full text in chat

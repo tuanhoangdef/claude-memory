@@ -1,0 +1,16 @@
+- [macOS OrbStack docker group gid](macos-orbstack-docker-group-gid.md) — .env DOCKER_GROUP_GID must be 0 here, or no sandbox task ever dispatches
+- [Pytest DB name collides across sessions](pytest-db-name-collides-across-sessions.md) — same branch, two runs, phantom failures
+- [check.sh skips migration](check-sh-excludes-migration.md) — a green full run that tested no Flow M code
+- [check.sh OTHER_TEAMS scratch toggle](check-sh-other-teams-scratch-toggle.md) — a tool, not unfinished work; blocks `git pull`, and the user discards it rather than stashing
+- [Shared git index — commit with a pathspec](shared-git-index-commit-with-pathspec.md) — a bare `git commit` takes another session's staged files
+- [grep obeys .gitignore](grep-obeys-gitignore-hides-specs.md) — a tree-wide sweep that never reads any spec or plan
+- [CLAUDE.md stays out of git](claude-md-stays-out-of-git.md) — said no once, committed anyway; check the file list, not your intent
+- [Agent briefs carry no history](agent-briefs-carry-no-history.md) — what an agent reads says what to do now, never what the code used to do
+- [Whole-tree pytest has 36 pre-existing failures](whole-tree-pytest-has-36-preexisting-failures.md) — all in migration/mcp; scoped runs pass, so red here is not yours
+- [Agent skills live in a separate repo](agent-skills-live-in-a-separate-repo.md) — brief and skill are two halves; the skill repo is pushed by the user
+- [Merchant words never reach a re-run](merchant-words-never-reach-a-rerun.md) — a held item gives the merchant nowhere to speak the next run will hear; design agreed, not built
+- [Keep test runs narrow](keep-test-runs-narrow.md) — full-suite sweeps are wasted time; run the touched test, verify in the browser
+- [Code is the document, not chuong-3-1](code-is-the-document-not-chuong-3-1.md) — that spec is outdated; don't cite it to defend code the user wants changed
+- [Hand-off record is a log, not a control](handoff-record-is-a-log-not-a-control.md) — item state and the task drive; gating an action on an open record is how items strand at held
+- [No email queue in this system](no-email-queue-in-this-system.md) — the spec's "queued mail count" is settled out of scope; stop re-finding it
+- [Access after a client transfer](stage-5-access-after-transfer-is-unsettled.md) — access and app install survive, so stage 5 order stands; but an unapproved app blocks the pool

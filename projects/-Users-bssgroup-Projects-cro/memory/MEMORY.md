@@ -1,0 +1,1 @@
+- [No co-author trailer](no-coauthor-trailer.md) — commit format "CE-xxx - …", không Co-Authored-By
